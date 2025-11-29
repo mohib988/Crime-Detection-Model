@@ -84,7 +84,13 @@ Execute the notebook sections in order:
 ├── README.md              
 └── archive.zip                  # Dataset  (auto-created)
 ```
+## Kaggle Link
+``` https://www.kaggle.com/code/muhammadmohib/notebooka1357a2d36 
+```
 
+## GitHub Link
+``` https://github.com/mohib988/Crime-Detection-Model
+```
 ## Troubleshooting
 
 ### Issue: Module not found
@@ -107,12 +113,7 @@ pip install -r requirements.txt
 - matplotlib
 - jupyter
 - plolty
-- statsmodels
-## Acknowledgments
-
-Dataset source: [Kaggle - Vehicle Price Analysis](https://www.kaggle.com/code/abdohassan01/vehicle-price-cleaning-analysis-prediction-sm)
-
----
+-  Tensorflow
 
 **Note**: Make sure to run cells sequentially from top to bottom for proper execution.# Crime-Detection-Model
 # Crime-Detection-Model
