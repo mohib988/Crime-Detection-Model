@@ -66,9 +66,8 @@ adjust the path according to the need
 
 Execute the notebook sections in order:
 
-1. **Data Loading** - Loads and extracts the dataset
-2. **Data Cleaning** - Handles missing values and outliers
-3. **Feature Scaling** - Standardizes numerical features
+1. **Data Loading** - Loading Directory
+2. **Video to  Frame** - Converting video to equal frame and normalizing pixels
 4. **Train-Test Split** - Splits data for training and testing
 5. **Model Creation** - Creating Detection Model
 6. **Training** - Training Model
